@@ -75,37 +75,37 @@ if (window.outerWidth >= 850) {
   pcpoint.forEach((pcpoint) => {
     pcpoint.addEventListener('click', () => {
       image_container.classList.add("active");
-      img1.src = "https://i.ibb.co/3v6rCX5/pcpoint1.png";
-      img2.src = "https://i.ibb.co/r4R318D/pcpoint2.png";
+      img1.src = "https://i.ibb.co/YkP73hD/pcpoint1.jpg";
+      img2.src = "https://i.ibb.co/rk9CBjR/pcpoint2.jpg";
     });
   });
 
   wafafurnworld.forEach((wafafurnworld) => {
     wafafurnworld.addEventListener('click', () => {
       image_container.classList.add("active");
-      img1.src = "https://i.ibb.co/yF5CjfL/wafafurnworld1.png";
-      img2.src = "https://i.ibb.co/Mf1h82M/wafafurnworld2.png";
+      img1.src = "https://i.ibb.co/PjW1jzR/wafafurnworld1.jpg";
+      img2.src = "https://i.ibb.co/xJ4Mct9/wafafurnworld2.jpg";
     });
   });
   USCarCare.forEach((USCarCare) => {
     USCarCare.addEventListener('click', () => {
       image_container.classList.add("active");
-      img1.src = "https://i.ibb.co/Bqw1Vs0/us1.png";
-      img2.src = "https://i.ibb.co/cL4ZFXP/us2.png";
+      img1.src = "https://i.ibb.co/KrWN7Zs/us1.jpg";
+      img2.src = "https://i.ibb.co/6ZKdnSB/us2.jpg";
     });
   });
   prasannabhavan.forEach((prasannabhavan) => {
     prasannabhavan.addEventListener('click', () => {
       image_container.classList.add("active");
-      img1.src = "https://i.ibb.co/Q6Z49NT/prasannabhavan1.png";
-      img2.src = "https://i.ibb.co/zbdXt15/prasannabhavan2.png";
+      img1.src = "https://i.ibb.co/pLYL23V/prasannabhavan1.jpg";
+      img2.src = "https://i.ibb.co/svmv58P/prasannabhavan2.jpg";
     });
   });
   stt.forEach((stt) => {
     stt.addEventListener('click', () => {
       image_container.classList.add("active");
-      img1.src = "https://i.ibb.co/CwdWQqL/stt1.png";
-      img2.src = "https://i.ibb.co/T0nJH44/stt2.png";
+      img1.src = "https://i.ibb.co/0nMbCXZ/stt1.jpg";
+      img2.src = "https://i.ibb.co/WHtzdN9/stt2.jpg";
     });
   });
   close.addEventListener('click', () => {
@@ -127,15 +127,15 @@ else {
   const stt_link1 = document.querySelector('#stt-link1');
   const stt_link2 = document.querySelector('#stt-link2');
 
-  pcpoint_link1.href = "https://i.ibb.co/3v6rCX5/pcpoint1.png";
-  pcpoint_link2.href = "https://i.ibb.co/r4R318D/pcpoint2.png";
-  wafafurnworld_link1.href = "https://i.ibb.co/yF5CjfL/wafafurnworld1.png";
-  wafafurnworld_link2.href = "https://i.ibb.co/Mf1h82M/wafafurnworld2.png";
-  USCarCare_link1.href = "https://i.ibb.co/Bqw1Vs0/us1.png";
-  USCarCare_link2.href = "https://i.ibb.co/cL4ZFXP/us2.png";
-  prasannabhavan_link1.href = "https://i.ibb.co/Q6Z49NT/prasannabhavan1.png";
-  prasannabhavan_link2.href = "https://i.ibb.co/zbdXt15/prasannabhavan2.png";
-  stt_link1.href = "https://i.ibb.co/CwdWQqL/stt1.png";
-  stt_link2.href = "https://i.ibb.co/T0nJH44/stt2.png";
+  pcpoint_link1.href = "https://i.ibb.co/YkP73hD/pcpoint1.jpg";
+  pcpoint_link2.href = "https://i.ibb.co/rk9CBjR/pcpoint2.jpg";
+  wafafurnworld_link1.href = "https://i.ibb.co/PjW1jzR/wafafurnworld1.jpg";
+  wafafurnworld_link2.href = "https://i.ibb.co/xJ4Mct9/wafafurnworld2.jpg";
+  USCarCare_link1.href = "https://i.ibb.co/KrWN7Zs/us1.jpg";
+  USCarCare_link2.href = "https://i.ibb.co/6ZKdnSB/us2.jpg";
+  prasannabhavan_link1.href = "https://i.ibb.co/pLYL23V/prasannabhavan1.jpg";
+  prasannabhavan_link2.href = "https://i.ibb.co/svmv58P/prasannabhavan2.jpg";
+  stt_link1.href = "https://i.ibb.co/0nMbCXZ/stt1.jpg";
+  stt_link2.href = "https://i.ibb.co/WHtzdN9/stt2.jpg";
 }
 
